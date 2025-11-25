@@ -1,0 +1,70 @@
+{
+  "dataset": {
+    "total_records": 112920,
+    "train_size": 79043,
+    "val_size": 16938,
+    "test_size": 16939,
+    "class_distribution": {
+      "train": {
+        "0": 78973,
+        "1": 70
+      },
+      "val": {
+        "0": 16923,
+        "1": 15
+      },
+      "test": {
+        "0": 16924,
+        "1": 15
+      }
+    }
+  },
+  "train_history": {
+    "train": [
+      {
+        "epoch": 1,
+        "loss": 4.407839535120631
+      }
+    ],
+    "val": [
+      {
+        "epoch": 1,
+        "loss": 5.027576916990434,
+        "accuracy": 0.9991144172865746,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "auc": 0.8603380015363706,
+        "confusion_matrix": [
+          [
+            16923,
+            0
+          ],
+          [
+            15,
+            0
+          ]
+        ]
+      }
+    ]
+  },
+  "val_best_f1": 0.0,
+  "test": {
+    "loss": 5.113697375033159,
+    "accuracy": 0.9990554342050888,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": 0.8661191207752305,
+    "confusion_matrix": [
+      [
+        16923,
+        1
+      ],
+      [
+        15,
+        0
+      ]
+    ]
+  }
+}

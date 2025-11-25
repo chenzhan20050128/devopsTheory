@@ -1,0 +1,54 @@
+[
+  {
+    "text": "instance <uuid> vm paused lifecycle event",
+    "probability": 0.41644713282585144,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "vm",
+      "<unk>",
+      "lifecycle",
+      "event"
+    ],
+    "importance": [
+      0.08404245972633362,
+      0.13563360273838043,
+      0.14820580184459686,
+      0.22008654475212097,
+      0.21904462575912476,
+      0.1929868757724762
+    ]
+  },
+  {
+    "text": "instance <uuid> claim successful",
+    "probability": 0.402096152305603,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "<unk>",
+      "<unk>"
+    ],
+    "importance": [
+      0.20838342607021332,
+      0.2247370481491089,
+      0.27868613600730896,
+      0.28819337487220764
+    ]
+  },
+  {
+    "text": "instance <uuid> creating image",
+    "probability": 0.40198132395744324,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "<unk>",
+      "image"
+    ],
+    "importance": [
+      0.19688749313354492,
+      0.23659051954746246,
+      0.28448814153671265,
+      0.2820338308811188
+    ]
+  }
+]

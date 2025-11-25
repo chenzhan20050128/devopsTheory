@@ -1,0 +1,57 @@
+{
+  "dataset": {
+    "total_records": 66,
+    "train_size": 46,
+    "val_size": 9,
+    "test_size": 11,
+    "class_distribution": {
+      "train": {
+        "0": 46
+      },
+      "val": {
+        "0": 9
+      },
+      "test": {
+        "0": 11
+      }
+    }
+  },
+  "train_history": {
+    "train": [
+      {
+        "epoch": 1,
+        "loss": 1.1284086652424024
+      }
+    ],
+    "val": [
+      {
+        "epoch": 1,
+        "loss": 0.2921482026576996,
+        "accuracy": 1.0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "auc": NaN,
+        "confusion_matrix": [
+          [
+            9
+          ]
+        ]
+      }
+    ]
+  },
+  "val_best_f1": 0.0,
+  "test": {
+    "loss": 0.29377827048301697,
+    "accuracy": 1.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": NaN,
+    "confusion_matrix": [
+      [
+        11
+      ]
+    ]
+  }
+}

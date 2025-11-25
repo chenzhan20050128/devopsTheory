@@ -1,0 +1,96 @@
+{
+  "train_history": [
+    {
+      "recall@top": 0.2222222222222222,
+      "precision@top": 1.0,
+      "avg_lead_time": 0.0,
+      "coverage@top": 0.1111111111111111,
+      "horizon": 5.0,
+      "reg_mae": 1.3671050071716309,
+      "reg_rmse": 1.5175039768218994,
+      "recall@top2": 0.1111111111111111,
+      "precision@top2": 1.0,
+      "recall@top5": 0.1111111111111111,
+      "precision@top5": 1.0,
+      "recall@top10": 0.1111111111111111,
+      "precision@top10": 1.0,
+      "recall@top20": 0.2222222222222222,
+      "precision@top20": 1.0,
+      "recall@top30": 0.3333333333333333,
+      "precision@top30": 1.0,
+      "loss": 0.4759594576898962,
+      "epoch": 1
+    }
+  ],
+  "val_history": [
+    {
+      "recall@top": 0.0,
+      "precision@top": 0.0,
+      "avg_lead_time": 0.0,
+      "coverage@top": 1.0,
+      "horizon": 5.0,
+      "reg_mae": 0.0,
+      "reg_rmse": 0.0,
+      "recall@top2": 0.0,
+      "precision@top2": 0.0,
+      "recall@top5": 0.0,
+      "precision@top5": 0.0,
+      "recall@top10": 0.0,
+      "precision@top10": 0.0,
+      "recall@top20": 0.0,
+      "precision@top20": 0.0,
+      "recall@top30": 0.0,
+      "precision@top30": 0.0,
+      "loss": 0.26233750581741333,
+      "epoch": 1
+    }
+  ],
+  "test_metrics": {
+    "recall@top": 0.5,
+    "precision@top": 1.0,
+    "avg_lead_time": 0.0,
+    "coverage@top": 0.5,
+    "horizon": 5.0,
+    "reg_mae": 0.04353412985801697,
+    "reg_rmse": 0.04354264587163925,
+    "recall@top2": 0.5,
+    "precision@top2": 1.0,
+    "recall@top5": 0.5,
+    "precision@top5": 1.0,
+    "recall@top10": 0.5,
+    "precision@top10": 1.0,
+    "recall@top20": 0.5,
+    "precision@top20": 1.0,
+    "recall@top30": 0.5,
+    "precision@top30": 1.0,
+    "pr_curve": {
+      "precision": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "recall": [
+        0.0,
+        0.5,
+        1.0
+      ],
+      "auc": 1.0
+    },
+    "roc_curve": {
+      "tpr": [
+        0.0,
+        0.5,
+        1.0,
+        1.0
+      ],
+      "fpr": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "auc": 1.0
+    },
+    "loss": 0.009046061895787716
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "text": "identity response < doctype html public ietf dtd html <num> en >",
+    "probability": 0.3025312125682831,
+    "tokens": [
+      "identity",
+      "<unk>",
+      "<unk>",
+      "<unk>",
+      "<unk>",
+      "public",
+      "<unk>",
+      "<unk>",
+      "<unk>",
+      "<num>",
+      "<unk>",
+      "<unk>"
+    ],
+    "importance": [
+      0.030520914122462273,
+      0.028256425634026527,
+      0.023963091894984245,
+      0.0,
+      0.0,
+      0.07512536644935608,
+      0.14749546349048615,
+      0.14802905917167664,
+      0.17007696628570557,
+      0.20025064051151276,
+      0.1127728521823883,
+      0.06350929290056229
+    ]
+  },
+  {
+    "text": "instance <uuid> instance destroyed successfully",
+    "probability": 0.1201014518737793,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "instance",
+      "destroyed",
+      "successfully"
+    ],
+    "importance": [
+      0.19913171231746674,
+      0.14491428434848785,
+      0.24158017337322235,
+      0.23957379162311554,
+      0.17480003833770752
+    ]
+  },
+  {
+    "text": "instance <uuid> instance destroyed successfully",
+    "probability": 0.1201014518737793,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "instance",
+      "destroyed",
+      "successfully"
+    ],
+    "importance": [
+      0.19913171231746674,
+      0.14491428434848785,
+      0.24158017337322235,
+      0.23957379162311554,
+      0.17480003833770752
+    ]
+  }
+]

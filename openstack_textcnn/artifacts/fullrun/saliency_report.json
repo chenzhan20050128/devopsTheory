@@ -1,0 +1,58 @@
+[
+  {
+    "text": "instance <uuid> vm started lifecycle event",
+    "probability": 0.583763599395752,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "vm",
+      "<unk>",
+      "lifecycle",
+      "event"
+    ],
+    "importance": [
+      0.10358433425426483,
+      0.1793564110994339,
+      0.18932956457138062,
+      0.20711749792099,
+      0.15872013568878174,
+      0.16189199686050415
+    ]
+  },
+  {
+    "text": "instance <uuid> vm started lifecycle event",
+    "probability": 0.583763599395752,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "vm",
+      "<unk>",
+      "lifecycle",
+      "event"
+    ],
+    "importance": [
+      0.10358433425426483,
+      0.1793564110994339,
+      0.18932956457138062,
+      0.20711749792099,
+      0.15872013568878174,
+      0.16189199686050415
+    ]
+  },
+  {
+    "text": "instance <uuid> creating image",
+    "probability": 0.5350227355957031,
+    "tokens": [
+      "instance",
+      "<uuid>",
+      "creating",
+      "image"
+    ],
+    "importance": [
+      0.16459444165229797,
+      0.2730482816696167,
+      0.26719021797180176,
+      0.2951670289039612
+    ]
+  }
+]
