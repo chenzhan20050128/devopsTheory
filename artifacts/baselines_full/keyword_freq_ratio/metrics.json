@@ -1,0 +1,43 @@
+{
+  "dataset": {
+    "total_records": 28241,
+    "train_size": 19768,
+    "val_size": 4236,
+    "test_size": 4237,
+    "class_distribution": {
+      "train": {
+        "0": 16543,
+        "1": 3225
+      },
+      "val": {
+        "0": 3545,
+        "1": 691
+      },
+      "test": {
+        "0": 3546,
+        "1": 691
+      }
+    }
+  },
+  "baseline": "keyword_freq_ratio",
+  "decision_threshold": 0.5,
+  "test": {
+    "loss": NaN,
+    "accuracy": 0.8369129100778853,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "auc": 0.5104853066131871,
+    "confusion_matrix": [
+      [
+        3546,
+        0
+      ],
+      [
+        691,
+        0
+      ]
+    ],
+    "threshold": 0.5
+  }
+}

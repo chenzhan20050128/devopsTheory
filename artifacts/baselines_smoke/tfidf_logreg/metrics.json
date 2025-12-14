@@ -1,0 +1,43 @@
+{
+  "dataset": {
+    "total_records": 1497,
+    "train_size": 1047,
+    "val_size": 224,
+    "test_size": 226,
+    "class_distribution": {
+      "train": {
+        "0": 698,
+        "1": 349
+      },
+      "val": {
+        "0": 149,
+        "1": 75
+      },
+      "test": {
+        "0": 151,
+        "1": 75
+      }
+    }
+  },
+  "baseline": "tfidf_logreg",
+  "decision_threshold": 0.35,
+  "test": {
+    "loss": NaN,
+    "accuracy": 0.3407079646017699,
+    "precision": 0.33482142857142855,
+    "recall": 1.0,
+    "f1": 0.5016722408026756,
+    "auc": 0.5136423841059603,
+    "confusion_matrix": [
+      [
+        2,
+        149
+      ],
+      [
+        0,
+        75
+      ]
+    ],
+    "threshold": 0.35
+  }
+}
